@@ -1,0 +1,28 @@
+name: Drinking Disasters Card Game
+favicon: null
+layout_spectrum: 0.5796645192895085
+typography_spectrum: 0.21312510618008673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7041869724635035
+  lightness: 0.38538359641097486
+  saturation: 0.5225938234943897
+  rhythmicContrast: 0.27765685925260186
+purpose: []
